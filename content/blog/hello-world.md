@@ -2,12 +2,12 @@
 title: "Hello World"
 date: 2020-08-02T16:12:56-06:00
 slug: ""
-description: ""
+description: "Test post"
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false
 ---
 TEST POST
-TEST POS
+TEST POST

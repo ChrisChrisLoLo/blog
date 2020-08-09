@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrischrislolo.github.io/blog/categories/</loc>
+    <loc>https://chrischrislolo.github.io/blog/blog/</loc>
+    <lastmod>2020-08-02T16:12:56-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://chrischrislolo.github.io/blog/</loc>
+    <lastmod>2020-08-02T16:12:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/blog/hello-world/</loc>
+    <lastmod>2020-08-02T16:12:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/categories/</loc>
   </url>
   
   <url>
