@@ -4,11 +4,14 @@
 # DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
+# Publish directory
+publishDir = "docs"
+
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© {year}"
+baseURL = "https://ChrisChrisLoLo.github.io/"
+copyright = "© 2020"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
