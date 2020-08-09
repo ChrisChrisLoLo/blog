@@ -10,7 +10,7 @@ publishDir = "docs"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://ChrisChrisLoLo.github.io/"
+baseURL = "https://chrischrislolo.github.io/blog/"
 copyright = "© 2020"
 
 # Add your Disqus shortname here.
