@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrischrislolo.github.io/blog/blog/</loc>
-    <lastmod>2020-08-02T16:12:56-06:00</lastmod>
+    <loc>https://chrischrislolo.github.io/blog/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrischrislolo.github.io/blog/</loc>
-    <lastmod>2020-08-02T16:12:56-06:00</lastmod>
+    <loc>https://chrischrislolo.github.io/blog/blog/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/tags/computer-engineering/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/tags/computer-science/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/blog/which-degree-is-best/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/tags/programs/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/tags/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrischrislolo.github.io/blog/tags/university/</loc>
+    <lastmod>2020-08-16T15:14:25-06:00</lastmod>
   </url>
   
   <url>
@@ -19,10 +49,6 @@
   
   <url>
     <loc>https://chrischrislolo.github.io/blog/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chrischrislolo.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
